@@ -9,3 +9,17 @@ This end-to-end project helps cricket analysts, fans, and recruiters understand 
 ## Datasets Used
 <a href = "https://www.kaggle.com/datasets/saiprudvirajy/indian-premier-league-ipl-2008-2024"> IPL-Ball By Ball-2008-2024
 
+## Machine Learning Approach
+### Model Used: Logistic Regression
+Selected due to its strong interpretability and suitability for binary classification problems.
+### Features Used
+Batting Team
+Bowling Team
+Venue
+Toss Winner
+Toss Decision
+Current Score features (if live prediction)
+Run Rate, Required Run Rate, Overs left (optional)
+### Target Variable
+Match Winner (1 = Batting team wins, 0 = Bowling team wins)
+
