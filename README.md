@@ -24,7 +24,7 @@ Run Rate, Required Run Rate, Overs left (optional)
 Match Winner (1 = Batting team wins, 0 = Bowling team wins)
 
 ## Process Workflow
-1️#### Data Collection
+1️### Data Collection
 Collected IPL ball-by-ball and match-level data from Kaggle & public IPL datasets.
 Cleaned raw data and stored it in CSV format for analysis and model training.
 
