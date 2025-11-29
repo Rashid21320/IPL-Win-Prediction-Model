@@ -29,3 +29,25 @@ Match Winner (1 = Batting team wins, 0 = Bowling team wins)
 Collected IPL ball-by-ball and match-level data from Kaggle & public IPL datasets.
 Cleaned raw data and stored it in CSV format for analysis and model training.
 
+### Data Cleaning
+Removed duplicates and irrelevant columns
+Handled missing values
+Fixed inconsistent team and venue names
+Converted categorical values into numerical format using label encoding & one-hot encoding
+### Feature Engineering
+Created meaningful features to improve prediction accuracy:
+Run Rate (RR)
+Required Run Rate (RRR)
+Balls Left
+Wickets in Hand
+Home/Away team indicators
+Toss Impact Feature
+### Model Training
+Split data into training and testing sets
+Trained Logistic Regression model
+Evaluated performance using:
+Accuracy Score
+Precision & Recall
+Confusion Matrix
+ROC-AUC Curve
+
