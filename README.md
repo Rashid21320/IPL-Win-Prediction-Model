@@ -1,1 +1,1 @@
-# IPL-Win-Prediction-Model (Machine Learning + Streamlit Deployment + Flask Frontend)
+# IPL-Win-Prediction-Model (Machine Learning + Streamlit + Flask Frontend)
