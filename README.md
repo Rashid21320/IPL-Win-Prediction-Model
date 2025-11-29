@@ -66,6 +66,7 @@ Exposed /predict endpoint for ML inference
 ## Flask Frontend Preview
 
 ![image alt](https://github.com/Rashid21320/IPL-Win-Prediction-Model/blob/main/Screenshot%202025-11-29%20at%2011.36.08.png?raw=true)
+
 ![image alt](https://github.com/Rashid21320/IPL-Win-Prediction-Model/blob/a79dd1aa0a66667a7af4cb757e9dad461f7877bf/Screenshot%202025-11-29%20at%2011.37.22.png)
 
 
