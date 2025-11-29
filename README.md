@@ -65,6 +65,7 @@ Exposed /predict endpoint for ML inference
 
 ## Flask Frontend Preview
 
-![Flask Screenshot](images/flask_ui.png)
+![Flask Screenshot](Screenshot 2025-11-29 at 11.36.08.)
+
 
 
