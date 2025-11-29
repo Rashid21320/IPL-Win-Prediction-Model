@@ -63,3 +63,5 @@ Designed a custom web UI using HTML/CSS/JS
 Integrated Flask backend to serve predictions
 Exposed /predict endpoint for ML inference
 
+## Flask Frontend Preview
+
