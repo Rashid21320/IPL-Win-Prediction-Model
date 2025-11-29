@@ -71,5 +71,9 @@ Exposed /predict endpoint for ML inference
 
 ![image alt](https://github.com/Rashid21320/IPL-Win-Prediction-Model/blob/2dab497451ff90b765e13980d16dd533dc9b688a/Screenshot%202025-11-29%20at%2011.37.37.png)
 
+## Streamlit App Preview
+
+![image alt]()
+
 
 
