@@ -51,3 +51,15 @@ Precision & Recall
 Confusion Matrix
 ROC-AUC Curve
 
+### Deployment
+Streamlit App
+Built an interactive UI where users can enter match conditions
+Model outputs:
+Predicted Winner
+Win Probability (0–100%)
+Confidence Score
+Flask Frontend
+Designed a custom web UI using HTML/CSS/JS
+Integrated Flask backend to serve predictions
+Exposed /predict endpoint for ML inference
+
